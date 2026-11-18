@@ -1,0 +1,5 @@
+MY FIRST GIT PROJECT
+
+Student Name: DiniHut
+Course: Introduction to Git (Implementasi Perangkat Lunak)
+Project: Learning GitHub
